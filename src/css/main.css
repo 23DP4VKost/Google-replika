@@ -1,0 +1,29 @@
+header{
+    text-align: right;
+    font-size: medium;
+    padding-right:10px;
+}
+
+#fullname{
+    text-align: center;
+    font-size: 600%;
+    
+}
+
+.center{
+    text-align: center;
+}
+
+#searchbar{
+    border-radius: 30px;
+    width: 700px;
+    padding: 10px;
+}
+
+.button{
+    border:none;
+    padding-top: 10px;
+    padding-right: 5px;
+    ;
+}
+
